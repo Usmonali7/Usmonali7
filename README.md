@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Usmonali
-- 👀 I’m interested in -
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
-- 😄 Pronouns: -
+- 🤝 I am looking for a friend to collaborate with
+- 📫 How to reach me darkdevus@gmail.com
+- 😄 Pronouns: 👽
 - ⚡ Fun fact: -
 
 <!---
